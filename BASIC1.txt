@@ -1,0 +1,19 @@
+git & git hub
+git is a VCS-version control system(when traffic arise....pulges results.....(managing a version and controlling a version)
+Git-version-traffic(update)-Redeply
+Software development we may known and unknown bugs
+Remote
+1) Gitreore& vcs
+2)Staging Area
+3) commits
+4)Issues & PR
+------------
+WD-git init,get status
+Staging Area-odd
+Local repo-commit
+Remote repo-push
+-----------
+kingdom is classified with two mutual kings
+1)linus-free resource(60%)-skilled army(LIZARDS-developer,SPElLS-code)---owner of LINUX
+2)larry-cost-(40%)-land-----bitkeeper(VCS)
+--------------------------------------------------------------------
